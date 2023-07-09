@@ -1,2 +1,2 @@
-# website-personal
+# wp-admin
 web
